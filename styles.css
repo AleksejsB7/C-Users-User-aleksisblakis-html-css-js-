@@ -1,0 +1,25 @@
+h1 {
+  color: orange;
+  text-align: center;
+  background-color: black;
+  background-size: auto;
+  
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 20%;
+    border-style: double;
+    
+}
+body{
+    background-color: green;
+}
+button{
+    color: black;
+    display: block;
+    margin: auto;
+    background-color: orange;
+}
