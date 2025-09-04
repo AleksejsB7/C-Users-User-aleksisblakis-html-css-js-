@@ -6,3 +6,11 @@ console.log("aleks");
         }
   window.onload = printNumbers;
   document.getElementById("printButton").onclick = printNumbers;
+
+  function changecolor(){
+    h1.first-paragraph
+  }
+
+  addEventListener("click", (event) => {h1.first-paragraph})
+
+onclick = (event) => { }

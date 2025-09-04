@@ -23,3 +23,17 @@ button{
     margin: auto;
     background-color: orange;
 }
+p.bold-text{
+    font-weight: bold;
+}
+
+h2.the-heading{
+    color: orange;
+}
+
+body{
+    margin:0px; 
+    padding: 25px;
+}
+
+
